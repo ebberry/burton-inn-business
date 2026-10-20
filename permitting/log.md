@@ -3,8 +3,8 @@
 Newest first. One line per event: what happened, who, and a link to the file if there is one.
 
 ## 2026-10-20 (sheet sync)
-- Connected to the Google Sheet tracker. Per the sheet, Rooms Only tasks 3 (lease and landlord consent), 4 (business license) and 6 (alarms and guest cap) are Done. LLC exists. Master List #3 was still Open; set it to Done.
-- Rooms path steps 1 and 5 to 6 in rooms-path/ are therefore already complete; remaining: records request, zoning letter, insurance and postings, listing.
+- Connected to the Google Sheet tracker. Per the sheet, Rooms Only tasks 3 (lease and landlord consent) and 6 (alarms and guest cap) are Done. LLC exists, but the business license (UBI) is NOT done; Master List #3 and Rooms Only task 4 are Open.
+- Rooms path steps 5 to 6 in rooms-path/ (lease, alarms and guest cap) are complete; remaining: business license, records request, zoning letter, insurance and postings, listing.
 
 ## 2026-10-20 (rooms path started)
 - Status: LLC started, nothing else done.
