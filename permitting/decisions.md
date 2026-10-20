@@ -6,7 +6,7 @@ the choice and the reason. Don't delete superseded entries; mark them and add a 
 | # | Question | Why it matters | Decided |
 |---|---|---|---|
 | D1 | Guest cap: 10 total or up to 16? | 10 or fewer likely keeps the rooms in R-3 (cheaper). 16 means R-1, with more fire and egress scrutiny. | |
-| D2 | Will an owner or manager live on site? | A B&B guesthouse may require a resident operator (secondary source, verify). The federal ADA lodging exemption also depends on it. | |
+| D2 | Will an owner or manager live on site? | **Confirmed in KCC 21A.08.050 note 15:** in NB, a B&B guesthouse must be accessory to the operator's permanent residence (max 5 rooms, 10 guests). Also affects the federal ADA lodging exemption. | |
 | D3 | Seat count and hours | 50+ occupants makes the dining room A-2 (egress, fire alarm). Hours affect the SBW meal-service rules. | |
 | D4 | Alcohol path | Beer/Wine Restaurant ($600, minimum food) vs. Spirits/Beer/Wine ($2,200 to $2,700, four complete meals, cook on duty). | |
 | D5 | License structure | Burton Inn LLC holds it; an operator subleases and holds it; or a management agreement. Drives the whole LCB application. | |

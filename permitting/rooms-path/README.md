@@ -11,12 +11,15 @@ Status starting point (2026-10-20): LLC started, nothing else done.
 Do not spend money on insurance, furnishings or listings until steps 1 to 3 come back.
 The zoning answer and the lease are the two things that can stop this path.
 
+**New (2026-10-20):** the NB zone does not allow hotel/motel, and allows a B&B guesthouse only for an operator who lives on site (max 5 rooms, 10 guests). See
+[../research/2026-10-20_kcc-21a-nb-use-table.md](../research/2026-10-20_kcc-21a-nb-use-table.md). Whether the existing inn is grandfathered is the question to settle first.
+
 | Step | What | Who | Draft in this folder | Done |
 |---|---|---|---|---|
 | 1 | Finish the LLC with the WA Secretary of State, then get the DOR business license (UBI) | You | [01-llc-and-business-license.md](01-llc-and-business-license.md) | [ ] |
 | 2 | Confirm the parcel number | You | [02-parcel-and-records-requests.md](02-parcel-and-records-requests.md) | [ ] |
 | 3 | Send the King County permit records request | You | [02-parcel-and-records-requests.md](02-parcel-and-records-requests.md) | [ ] |
-| 4 | Request the zoning letter | You / architect | [03-zoning-letter-request.md](03-zoning-letter-request.md) | [ ] |
+| 4 | Ask the county the zoning questions for free first (email draft in ../correspondence/); buy the $483 letter only if needed | You | [03-zoning-letter-request.md](03-zoning-letter-request.md), [../correspondence/2026-10-20_kc-dls_permitquestions-email-DRAFT.md](../correspondence/2026-10-20_kc-dls_permitquestions-email-DRAFT.md) | [ ] |
 | 5 | Lease check and landlord consent | You / attorney | [04-lease-and-landlord-consent.md](04-lease-and-landlord-consent.md) | [ ] |
 | 6 | Decide guest cap (10 vs 16) and who is the on-site contact | You | [../decisions.md](../decisions.md) D1, D2 | [ ] |
 | 7 | Insurance quote ($1M primary liability, or platform coverage) | Broker | [05-guest-safety-and-postings.md](05-guest-safety-and-postings.md) | [ ] |

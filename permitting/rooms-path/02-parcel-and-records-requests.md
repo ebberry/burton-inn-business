@@ -30,7 +30,7 @@ Also known as "The Quartermaster Inn and Restaurant" in county records.
 > electronically, and the cost. The attached research form has my contact information.
 >
 > Thank you,
-> [Name], Burton Inn LLC, [phone]
+> Elijah Berry, The Burton Inn LLC, 417-299-7775, elijah@theburtoninn.com
 
 - [ ] Sent on: ________  Reply received: ________  Saved to `../records/`
 
