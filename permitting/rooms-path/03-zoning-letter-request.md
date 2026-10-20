@@ -5,15 +5,24 @@ Title 21A. A separate historical certification covers more comprehensive researc
 parcel's history and can take longer. You likely want the zoning certification, and the
 historical version only if the permit records leave the occupancy history unclear.
 
-## How to request
-- Through King County DLS Permitting (MyBuildingPermit.com or the county's zoning
-  inquiry process). I could not confirm which; call the Permitting Division at
-  **206-296-6600** (the number on the county's zoning certification form) and ask.
-- Fee: not confirmed. King County's fee page lists "Zoning Inquiry" under
-  Pre-Development Services. The county's 2026 fees rose about 14% and most applications
-  carry a $126 screening fee. Ask whether the letter does.
-- Ask whether a **pre-application meeting** makes more sense. It lets you put the
-  questions below to a planner directly, and the same meeting can cover Track B later.
+## How to request (confirmed from King County documents, 2026-10-20)
+- **Apply online at MyBuildingPermit.com.** Select: King County, Land Use, Any Project Type,
+  Pre-application Services, **Zoning Verification**.
+- **Fee (2026 Fee Guide 01, Pre-Development Services):**
+  - **$483** for a letter on the existing zoning designation or development rights.
+  - **$1,452** for development potential, historic research or other.
+  - A $126 application screening fee may also apply to applications (county notice for 2026); ask.
+- The letter can also cover the existing use of the site, whether it is legally conforming or
+  non-conforming, property-specific conditions or overlays, permit history and pending code enforcement.
+- It only covers Title 21A zoning. It does not cover flooding, landslide or coal mine hazards,
+  critical areas (wetlands, shorelines, steep slopes) or legal building lot status.
+- A **Historical** Zoning Certification Letter is for archive research or a comprehensive analysis of the site.
+- General questions: PermitQuestions@kingcounty.gov. Phone: 206-296-6600.
+- **Pre-application meeting (alternative):** voluntary here, held on Teams, **$1,452 per county staff person**
+  (a planner is always included), $290.40 non-refundable if cancelled. Much costlier than the letter;
+  consider only later for Track B.
+- Sources: King County "Zoning & Historical Certification Letter" info sheet (June 2025),
+  "Pre-application Meeting Information" (January 2026), 2026 Fee Guide 01.
 
 ## Questions to put in writing
 Parcel: 192203-9032. Address: 24007 Vashon Hwy SW.
