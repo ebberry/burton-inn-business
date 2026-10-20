@@ -2,6 +2,9 @@
 
 Newest first. One line per event: what happened, who, and a link to the file if there is one.
 
+## 2026-10-20 (no resident operator)
+- Owner: nobody will live on site (D2). The B&B guesthouse route in NB is therefore out unless the county says otherwise; the rooms path now depends on the existing inn being a legally established or nonconforming use, or a site-specific condition. Email draft question 3 reworded.
+
 ## 2026-10-20 (free route on zoning)
 - Decided to try free answers first (permit records review, email to PermitQuestions) before buying the $483 zoning letter. Drafts: [correspondence/2026-10-20_kc-dls_permitquestions-email-DRAFT.md](correspondence/2026-10-20_kc-dls_permitquestions-email-DRAFT.md), records request in rooms-path/02.
 - Read KCC 21A.08 for NB: hotel/motel not allowed; B&B guesthouse allowed only as accessory to the operator's permanent residence (5 rooms, 10 guests, meals to paying guests only); restaurant allowed, bars as principal use not. See [research/2026-10-20_kcc-21a-nb-use-table.md](research/2026-10-20_kcc-21a-nb-use-table.md). Big open question: is the existing inn use grandfathered?
