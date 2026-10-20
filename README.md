@@ -10,7 +10,7 @@ separate repo (`burton-inn`) and is published by Netlify; nothing here is publis
 
 | [entity/](entity/) | The LLC: formation documents, UBI, annual report date. |
 
-Add new top-level folders as other areas come up, for example `lease/`, operating agreement in `entity/`,
+Add new top-level folders as other areas come up, for example `lease/`,
 `insurance/`, `finance/`, `partners/`.
 
 ## Conventions
