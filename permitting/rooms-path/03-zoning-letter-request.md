@@ -16,7 +16,7 @@ historical version only if the permit records leave the occupancy history unclea
   questions below to a planner directly, and the same meeting can cover Track B later.
 
 ## Questions to put in writing
-Parcel: [number]. Address: 24007 Vashon Hwy SW.
+Parcel: 192203-9032. Address: 24007 Vashon Hwy SW.
 
 1. What is the zoning, and does it carry a P-suffix? Please provide the P-suffix text.
    (A 1980s Vashon plan ordinance mentions a P-condition near Burton limiting some
@@ -29,6 +29,7 @@ Parcel: [number]. Address: 24007 Vashon Hwy SW.
 5. Is an STR registration or permit required in unincorporated King County for this use?
 6. Parking required for the lodging use, and is the existing on-site parking adequate?
 7. Is the building a designated landmark, or subject to any historic review?
-8. Anything else on the parcel (conditions, easements, overlays) affecting reopening?
+8. Is a restaurant or cafe use, including coffee service, permitted at this site, and are there any conditions? The Assessor lists a 50-seat table-service restaurant and a bed and breakfast present use; please confirm what the county recognizes.
+9. Anything else on the parcel (conditions, easements, overlays) affecting reopening?
 
 - [ ] Request sent on: ________  Answer received: ________  Saved to `../correspondence/`
