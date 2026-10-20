@@ -33,3 +33,15 @@ Parcel: 192203-9032. Address: 24007 Vashon Hwy SW.
 9. Anything else on the parcel (conditions, easements, overlays) affecting reopening?
 
 - [ ] Request sent on: ________  Answer received: ________  Saved to `../correspondence/`
+
+## Phone call script (206-296-6600)
+> Hi, I'm calling about 24007 Vashon Hwy SW, parcel 192203-9032, unincorporated Vashon.
+> I'm reopening a closed inn and want written confirmation of the zoning and allowed uses.
+> 1. Is a Zoning Certification Letter the right request, and how do I submit it (MyBuildingPermit, email, or in person)?
+> 2. What is the fee, and does the $126 application screening fee apply?
+> 3. How long does it usually take?
+> 4. Would a pre-application meeting be better, and is one required for a lodging use?
+> 5. Can the letter answer a list of questions I'd send in writing?
+> 6. Who is the planner assigned to the Vashon area, so I can follow up?
+
+Write down: date, name of person, answers, any reference number. Save as a note in `../correspondence/`.

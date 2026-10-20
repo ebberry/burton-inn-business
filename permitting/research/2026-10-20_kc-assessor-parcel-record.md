@@ -16,7 +16,7 @@ The Assessor's fields are coarse and sometimes wrong; treat this as strong evide
 | Section 2 | Restaurant, table service (350): **50 seats public**, 1,828 sq ft | Seat count is 50, not the 40 assumed. Fifty occupants is the A-2 threshold. |
 | Sprinklers | **Yes** | Major. The building is sprinklered, which helps the fire and occupancy picture for both tracks. Verify what the system covers and its inspection records. |
 | Water | Water district | Which one is unverified (the research guessed Burton Water Co-op). |
-| Sewer/septic | **"PUBLIC"** | Conflicts with the research, which found Vashon Sewer District does not serve Burton and expected septic. Do not rely on either; the OSS records search and the Public Health request will settle it. If it is on a public sewer, the biggest Track B risk shrinks a lot. |
+| Sewer/septic | "PUBLIC" | **Owner confirms the property is on septic** (2026-10-20); the Assessor field is wrong or means something else. Septic and grease remain the likeliest Track B deal-breaker. Request the OSS as-built. |
 | Parking | Adequate | Supports the parking question, still confirm against code. |
 | Historic site | none listed | Consistent with not being a landmark. |
 | Deed restrictions / easements | No / No | |
