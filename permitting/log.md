@@ -2,6 +2,9 @@
 
 Newest first. One line per event: what happened, who, and a link to the file if there is one.
 
+## 2026-10-20 (entity documents)
+- Filed the LLC formation documents in [../entity/](../entity/). UBI 606 277 102; LLC formed 2026-08-07. DOR business license still open.
+
 ## 2026-10-20 (sheet sync)
 - Connected to the Google Sheet tracker. Per the sheet, Rooms Only tasks 3 (lease and landlord consent) and 6 (alarms and guest cap) are Done. LLC exists, but the business license (UBI) is NOT done; Master List #3 and Rooms Only task 4 are Open.
 - Rooms path steps 5 to 6 in rooms-path/ (lease, alarms and guest cap) are complete; remaining: business license, records request, zoning letter, insurance and postings, listing.

@@ -8,8 +8,10 @@ separate repo (`burton-inn`) and is published by Netlify; nothing here is publis
 |---|---|
 | [permitting/](permitting/) | Permits and licenses for reopening: research, tracker workbook, applications, records, correspondence, issued permits. Start with [permitting/PROCESS.md](permitting/PROCESS.md). |
 
-Add new top-level folders as other areas come up, for example `lease/`, `entity/`
-(LLC formation and operating agreement), `insurance/`, `finance/`, `partners/`.
+| [entity/](entity/) | The LLC: formation documents, UBI, annual report date. |
+
+Add new top-level folders as other areas come up, for example `lease/`, operating agreement in `entity/`,
+`insurance/`, `finance/`, `partners/`.
 
 ## Conventions
 
