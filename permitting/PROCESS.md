@@ -55,6 +55,8 @@ Do these first. Nothing below should cost real money until the lease and zoning 
 
 ## Track A: Rooms only (go-live roughly weeks 2 to 8 after Phase 0 starts)
 
+Detailed drafts and checklists: [rooms-path/](rooms-path/).
+
 Gate: zoning letter says lodging is allowed, and the lease allows it.
 
 - [ ] A1. Zoning letter in hand and favorable
