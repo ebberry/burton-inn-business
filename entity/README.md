@@ -13,8 +13,8 @@
 | **Annual report due** | **before 2027-08-31** (SOS expiration date; late filing risks administrative dissolution) |
 
 ## Still to do for the entity
-- [ ] DOR Business License Application (the UBI above is the SOS number; the DOR license is separate)
-- [ ] EIN from the IRS (the SOS letter lists this as a next step; not confirmed done)
+- [ ] DOR Business License: application submitted 2026-10-20 (confirmation 0-054-529-126); waiting on approval
+- [ ] EIN from the IRS: online application failed 2026-10-20 with reference number 101; call 800-829-4933 or file Form SS-4
 - [ ] Operating agreement (not in this folder yet)
 - [ ] Calendar the 2027 annual report
 

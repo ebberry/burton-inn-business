@@ -2,6 +2,10 @@
 
 Newest first. One line per event: what happened, who, and a link to the file if there is one.
 
+## 2026-10-20 (DOR application filed)
+- Submitted the DOR Business License Application online, 11:59 AM. Confirmation 0-054-529-126, $60.00 paid by bank account. Firm name THE BURTON INN, physical address 24007 Vashon Hwy SW. DOR says 10 business days to process, plus about 3 more weeks if city or state endorsements were requested. License to be emailed to the linked SAW email. Copy: [applications/2026-10-20_dor_3-business-license-application-confirmation.pdf](applications/2026-10-20_dor_3-business-license-application-confirmation.pdf). Master List #3 set to In progress.
+- EIN: IRS online application failed with reference number 101. Next step is calling the IRS business line (800-829-4933).
+
 ## 2026-10-20 (entity documents)
 - Filed the LLC formation documents in [../entity/](../entity/). UBI 606 277 102; LLC formed 2026-08-07. DOR business license still open.
 
